@@ -8,6 +8,6 @@ activity_version = 3
 show_launcher = yes
 mime_types = application/x-sindiente
 summary = Word game similar to hangman but without violence. If you are wrong, your character loses a tooth. 
-licence = GPLv3
+licence = GPL
 repository = https://github.com/sugarlabs/sin-dientes-activity.git
 tags = Game
